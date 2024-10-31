@@ -1,6 +1,6 @@
 ## **PROJECT DESCRIPTION**
 
-This Flask app consists of a database that stores all computers owned by Umuzi. The contents of the database are accesed using CRUD operations, list all computers, add a computer, update a computer and delete a computer, which are exposed at REST api endpoints.
+This Flask app consists of a database that stores all computers owned by Umuzi. The contents of the database are accessed using CRUD operations, list all computers, add a computer, update a computer and delete a computer, which are exposed at REST api endpoints.
 
 ## **RUNNING THE APPLICATION**:
 
